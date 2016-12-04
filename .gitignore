@@ -1,0 +1,9 @@
+*
+
+!*.ml
+!*.mli
+!_tags
+!.merlin
+
+!.gitignore
+!*.md
